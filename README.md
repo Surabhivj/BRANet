@@ -1,2 +1,2 @@
 # BRANet
-Integrative Analysis of Multi-Layered Heterogeneous Network  for Omics inference
+BRANET: Graph-based Integration of Multi-omics Data withBiologicala priorifor Regulatory Network Inference
