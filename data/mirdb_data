@@ -1,0 +1,181 @@
+<!--Start of head-->
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "Template.dwt" -->
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<META http-equiv="pragma" content="no-cache">
+<META http-equiv="expires" content="0">
+<META NAME="keywords" CONTENT="MicroRNA, miRNA, target">
+<META NAME="description" CONTENT="An Online Database for MicroRNA Target Prediction and Functional Studies">
+<!--mstheme--><link href="_themes/compass/comp1011.css" rel="stylesheet" type="text/css"><meta content="compass 1011" name="Microsoft Theme">
+<!-- #BeginEditable "doctitle" -->
+<title>miRDB - Data Download</title>
+<!-- #EndEditable -->
+</head>
+<body>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr><td>
+	<p align="center"><a href="index.html"><img border="0" height="53" src="images/banner.jpg" width="184"></a></p>
+	<p align="center">&nbsp;</p>
+	</td></tr>
+</table>
+
+<!--End of head-->
+
+<table border="0" cellpadding="0" cellspacing="0" dir="ltr" width="100%">
+<tr>
+	<td valign="top" width="1%">
+	<table id="table1" border="0" cellpadding="3" cellspacing="0" height="217" width="184">
+        <tr>
+                <td bgcolor="#CCCCCC" height="40" style="color: #FFFFFF; font-weight: bold" width="178">
+                <a href="index.html">Target Search</a> </td>
+        </tr>
+        <tr>
+                <td bgcolor="#CCCCCC" height="40" style="color: #FFFFFF; font-weight: bold" width="178">
+                <a href="expression.html">Target Expression</a></td>
+        </tr>
+        <tr>
+                <td bgcolor="#CCCCCC" height="40" style="color: #FFFFFF; font-weight: bold" width="178">
+                <a href="ontology.html">Target Ontology</a></td>
+        </tr>
+        <tr>
+                <td bgcolor="#CCCCCC" height="40" style="color: #FFFFFF; font-weight: bold" width="178">
+                <a href="mining.html">Target Mining</a></td>
+        </tr>
+
+        <tr>
+                <td bgcolor="#CCCCCC" height="40" style="color: #FFFFFF; font-weight: bold" width="178">
+                <a href="custom.html">Custom Prediction</a></td>
+        </tr>
+        <tr>
+                <td bgcolor="#CCCCCC" height="40" style="color: #FFFFFF; font-weight: bold" width="178">
+                <a href="FuncMir.html">FuncMir Collection</a></td>
+        </tr>
+        <tr>
+                <td bgcolor="#CCCCCC" height="40" style="color: #0000FF; font-weight: bold" width="178">
+                <a href="download.html">Data Download</a></td>
+        </tr>
+        <tr>
+                <td bgcolor="#CCCCCC" height="40" style="color: #0000FF; font-weight: bold" width="178">
+                <a href="statistics.html" target="_self">Statistics </a></td>
+        </tr>
+        <tr>
+                <td bgcolor="#CCCCCC" height="40" style="color: #0000FF; font-weight: bold" width="178">
+                <a href="faq.html" target="_self">Help | FAQ </a></td>
+        </tr>
+        <tr>
+                <td bgcolor="#CCCCCC" height="40" style="color: #0000FF; font-weight: bold" width="178">
+                <a href="comment.html" target="_self">Comments</a></td>
+        </tr>
+        <tr>
+                <td bgcolor="#CCCCCC" height="40" style="color: #0000FF; font-weight: bold" width="178">
+                <a href="policy.html" target="_self">Citation | Policy</a> </td>
+        </tr>
+	</table>
+	</td>
+	<td valign="top" width="24"></td>
+	<td valign="top"><hr>
+
+	<!-- #BeginEditable "Content%20section" -->
+	
+	
+<h2>miRDB Data Download</h2><hr>
+<p>Current version:</p>
+<table border="1" cellspacing="1" cellpadding="5" style="border-color: #808000">
+        <tr>
+                <td align="center"><b>Target Prediction Files</b></td>
+                <td align="center"><b>miRDB Version</b></td>
+                <td align="center"><b>Release Date</b></td>
+                <td align="center"><b>Prediction Tool</b></td>
+                <td align="center"><b>miRNA Source</b></td>
+        </tr>
+        <tr>
+                <td align="center">
+                <a href="download/miRDB_v6.0_prediction_result.txt.gz">Download
+                Predicted Targets</a></td>
+                <td align="center"><b>6.0</b></td>
+                <td align="center">June, 2019</td>
+                <td align="center">MirTarget V4</td>
+                <td align="center">miRBase 22</td>
+        </tr>
+</table>
+
+<p>&nbsp;</p>
+<p>Older versions:</p>
+<table border="1" cellspacing="1" cellpadding="5" style="border-color: #808000" id="table2">
+        <tr>
+                <td align="center"><b>Target Prediction Files</b></td>
+                <td align="center"><b>miRDB Version</b></td>
+                <td align="center"><b>Release Date</b></td>
+                <td align="center"><b>Prediction Tool</b></td>
+                <td align="center"><b>miRNA Source</b></td>
+        </tr>
+        <tr>
+                <td align="center">
+                <a href="download/miRDB_v5.0_prediction_result.txt.gz">Download
+                Predicted Targets</a></td>
+                <td align="center"><b>5.0</b></td>
+                <td align="center">August, 2014</td>
+                <td align="center">MirTarget V3</td>
+                <td align="center">miRBase 21</td>
+        </tr>
+        <tr>
+                <td align="center">
+                <a href="download/MirTarget2_v4.0_prediction_result.txt.gz">Download
+                Predicted Targets</a></td>
+                <td align="center"><b>4.0</b></td>
+                <td align="center">January, 2012</td>
+                <td align="center">MirTarget2</td>
+                <td align="center">miRBase 18</td>
+        </tr>
+        <tr>
+                <td align="center">
+                <a href="download/MirTarget2_v3.0_prediction_result.txt.gz">Download
+                Predicted Targets</a></td>
+                <td align="center"><b>3.0</b></td>
+                <td align="center">April, 2009</td>
+                <td align="center">MirTarget2</td>
+                <td align="center">miRBase 13.0</td>
+        </tr>
+        <tr>
+                <td align="center">
+                <a href="download/MirTarget2_v2.0_prediction_result.txt.gz">Download Predicted
+                Targets</a></td>
+                <td align="center"><b>2.0</b></td>
+                <td align="center">December, 2007</td>
+                <td align="center">MirTarget2</td>
+                <td align="center">miRBase 10.0</td>
+        </tr>
+        <tr>
+                <td align="center">
+                <a href="download/MirTarget2_v1.0_prediction_result.txt.gz">Download
+                predicted Targets</a></td>
+                <td align="center"><b>1.0</b></td>
+                <td align="center">May, 2007</td>
+                <td align="center">MirTarget2</td>
+                <td align="center">miRBase 9.1</td>
+        </tr>
+</table>	
+	
+	
+	<!-- #EndEditable -->
+	
+	</td>
+</tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+ <tr><td>
+ <hr align="center">
+ <h5><a href="comment.html">Click here</a> to contact us with questions or 
+ comments about this website.</h5>
+ </td></tr>
+</table>
+</body>
+<!-- #EndTemplate -->
+</html>
