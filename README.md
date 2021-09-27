@@ -5,13 +5,13 @@ BRANET: Graph-based Integration of Multi-omics Data withBiologicala priorifor Re
 
 Data download : https://cutt.ly/6EWtmqS
 
-# To infer MMRN network:
+To infer MMRN network:
 ```
 python BRANet.py
 
 ```
 
-# To reproduce evaluation results :
+To reproduce evaluation results :
 
 ```
 python branet_reproduce_results.py
