@@ -8,7 +8,6 @@ Data download : https://cutt.ly/6EWtmqS
 To infer MMRN network:
 ```
 python BRANet.py
-
 ```
 
 To reproduce evaluation results :
