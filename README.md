@@ -18,6 +18,6 @@ python branet_reproduce_results.py
 
 #### Reference
 
->| Graph-based Integration of Multi-omics Data with Biological a priori for Regulatory Network Inference. Surabhi Jagtap, Aurélie Pirayre, Frederique Bidard, Laurent Duval, and Fragkiskos D. Malliaros.  Computational Intelligence Methods for Bioinformatics and Biostatistics (CIBB), 2021 | 
+>| BRANET: Graph-based Integration of Multi-omics Data with Biological a priori for Regulatory Network Inference. Surabhi Jagtap, Aurélie Pirayre, Frederique Bidard, Laurent Duval, and Fragkiskos D. Malliaros.  Computational Intelligence Methods for Bioinformatics and Biostatistics (CIBB), 2021 | 
 
 }
